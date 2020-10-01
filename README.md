@@ -12,7 +12,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/parthketandoshi/)
 
-<br><br>
+<br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthketandoshi&layout=compact&theme=dracula)](https://github.com/parthketandoshi)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=parthketandoshi&show_icons=true&theme=dracula)](https://github.com/parthketandoshi)
