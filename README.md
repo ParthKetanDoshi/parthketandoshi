@@ -8,8 +8,6 @@
 
 ### A Technically Proficient Computer Engineering Fresher with a Passion for Programming, a Knack for Problem Solving and an Aptitude for Learning. I describe myself as a Jack of All Trades and Master of Some. I have a plethora of experience and have made good out of all the opportunities I have received. I vouch for myself that I will be a valuable addition to everything I am involved in.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/parthketandoshi/)
-
 <a href="https://www.linkedin.com/in/parthketandoshi/"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/linkedin.png"></a>
 <a href="https://dev.to/parthketandoshi"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/dev.png"></a>
 
