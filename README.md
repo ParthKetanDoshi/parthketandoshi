@@ -10,5 +10,8 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/parthketandoshi/)
 
+<a href="https://www.linkedin.com/in/parthketandoshi/"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/linkedin.png"></a>
+<a href="https://dev.to/parthketandoshi"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/dev.png"></a>
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=parthketandoshi&show_icons=true&theme=dracula)](https://github.com/parthketandoshi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthketandoshi&layout=compact&theme=dracula)](https://github.com/parthketandoshi)
