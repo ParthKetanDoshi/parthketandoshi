@@ -2,7 +2,7 @@
 
 # Hey, I'm [Parth!](https://parthketandoshi.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-## Designer & Developer
+<!-- ## Designer & Developer -->
 
 <!-- <img width="40%" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/designer_developer.gif"> -->
 
