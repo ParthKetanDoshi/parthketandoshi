@@ -8,10 +8,10 @@
 
 A Technically Proficient Computer Engineering Fresher with a Passion for Programming, a Knack for Problem Solving and an Aptitude for Learning. I describe myself as a Jack of All Trades and Master of Some. I have a plethora of experience and have made good out of all the opportunities I have received. I vouch for myself that I will be a valuable addition to everything I am involved in.
 
-<a href="https://www.linkedin.com/in/parthketandoshi/"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/linkedin.png"></a>
-<a href="https://gitlab.com/ParthKetanDoshi"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/gitlab.png"></a>
-<a href="https://www.behance.net/parthketandoshi"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/behance.png"></a>
-<a href="https://dev.to/parthketandoshi"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/dev.png"></a>
+<a href="https://www.linkedin.com/in/parthketandoshi/" targer="_blank"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/linkedin.png"></a>
+<a href="https://gitlab.com/ParthKetanDoshi" targer="_blank"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/gitlab.png"></a>
+<a href="https://www.behance.net/parthketandoshi" targer="_blank"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/behance.png"></a>
+<a href="https://dev.to/parthketandoshi" targer="_blank"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/dev.png"></a>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=parthketandoshi&show_icons=true&theme=dracula)](https://github.com/parthketandoshi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthketandoshi&layout=compact&theme=dracula)](https://github.com/parthketandoshi)
