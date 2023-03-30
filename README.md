@@ -12,5 +12,5 @@ A Technically Proficient Computer Engineer with a Passion for Programming, a Kna
 <a href="https://www.behance.net/parthketandoshi"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/behance.png"></a>
 <a href="https://dev.to/parthketandoshi"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/dev.png"></a>
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=parthketandoshi&show_icons=true&theme=dracula)](https://github.com/parthketandoshi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthketandoshi&layout=compact&theme=dracula)](https://github.com/parthketandoshi) -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=parthketandoshi&show_icons=true&theme=dracula)](https://github.com/parthketandoshi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthketandoshi&layout=compact&theme=dracula)](https://github.com/parthketandoshi)
