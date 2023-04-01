@@ -38,10 +38,10 @@ A Technically Proficient Computer Engineer with a Passion for Programming, a Kna
 <a href="https://www.behance.net/parthketandoshi"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/behance.png"></a>
 <a href="https://dev.to/parthketandoshi"><img height="50" src="https://github.com/ParthKetanDoshi/parthketandoshi/blob/master/assets/icons/dev.png"></a> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=parthketandoshi&show_icons=true&theme=dracula" alt="parthketandoshi"/></p>
+<a href="https://github.com/parthketandoshi/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parthketandoshi&show_icons=true&theme=dracula" alt="parthketandoshi"/></a>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthketandoshi&layout=compact&theme=dracula" alt="parthketandoshi"/></p>
+<a href="https://github.com/parthketandoshi/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthketandoshi&layout=compact&theme=dracula" alt="parthketandoshi"/></a>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthketandoshi&theme=dracula" alt="parthketandoshi" /></p>
+<a href="https://github.com/parthketandoshi/" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthketandoshi&theme=dracula" alt="parthketandoshi"/></a>
 <br>
-<p><img align="center" src="https://leetcode.card.workers.dev/parthketandoshi?theme=nord&font=source_code_pro&extension=activity" alt="parthketandoshi" /></p>
+<a href="https://leetcode.com/parthketandoshi/" target="_blank"><img align="center" src="https://leetcode.card.workers.dev/parthketandoshi?theme=nord&font=source_code_pro&extension=activity" alt="parthketandoshi"/></a>
