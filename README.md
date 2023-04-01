@@ -14,4 +14,4 @@ A Technically Proficient Computer Engineer with a Passion for Programming, a Kna
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthketandoshi&layout=compact&theme=dracula)](https://github.com/parthketandoshi)
 <br>
-![LeetCode Stats](https://leetcode.card.workers.dev/parthketandoshi?theme=nord&font=source_code_pro&extension=activity)](https://leetcode.com/parthketandoshi)
+[![LeetCode Stats](https://leetcode.card.workers.dev/parthketandoshi?theme=nord&font=source_code_pro&extension=activity)](https://leetcode.com/parthketandoshi)
