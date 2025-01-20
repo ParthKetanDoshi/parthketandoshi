@@ -46,7 +46,9 @@ A Technically Proficient Computer Engineer with a Passion for Programming, a Kna
       <a href="https://github.com/parthketandoshi/" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthketandoshi&theme=dracula" alt="parthketandoshi"/></a><br>
     </td>
     <td>
-      <a href="https://leetcode.com/parthketandoshi/" target="_blank"><img align="center" src="https://leetcode.card.workers.dev/parthketandoshi?theme=nord&font=source_code_pro&extension=activity" alt="parthketandoshi"/></a>
+<!--       ![LeetCode Stats](https://leetcard.jacoblin.cool/parthketandoshi?theme=nord&font=Libre%20Baskerville&ext=heatmap) -->
+      <a href="https://leetcode.com/parthketandoshi/" target="_blank"><img align="center" src="https://leetcard.jacoblin.cool/parthketandoshi?theme=nord&font=Libre%20Baskerville&ext=heatmap" alt="parthketandoshi"/></a>
+<!--       ![LeetCode Stats](https://leetcard.jacoblin.cool/parthketandoshi?theme=nord&font=Libre%20Baskerville&ext=heatmap) -->
     </td>
   </tr>
 </table>
