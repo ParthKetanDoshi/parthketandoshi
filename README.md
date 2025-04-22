@@ -19,7 +19,7 @@ A Technically Proficient Computer Engineer with a Passion for Programming, a Kna
     <td>
       <a href="https://github.com/parthketandoshi/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parthketandoshi&show_icons=true&theme=dracula" alt="parthketandoshi"/></a><br>
       <a href="https://github.com/parthketandoshi/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthketandoshi&layout=compact&theme=dracula" alt="parthketandoshi"/></a><br>
-      <a href="https://github.com/parthketandoshi/" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthketandoshi&theme=dracula" alt="parthketandoshi"/></a><br>
+<!--       <a href="https://github.com/parthketandoshi/" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthketandoshi&theme=dracula" alt="parthketandoshi"/></a><br> -->
     </td>
     <td>
       <a href="https://leetcode.com/parthketandoshi/" target="_blank"><img align="center" src="https://leetcard.jacoblin.cool/parthketandoshi?theme=nord&font=Libre%20Baskerville&ext=heatmap" alt="parthketandoshi"/></a>
